@@ -1,4 +1,4 @@
-import Header from "../Header/page"
+import Header from "../header/page"
 
 export const HeaderPage = () => {
 
